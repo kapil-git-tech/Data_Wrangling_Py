@@ -5,7 +5,7 @@ The following notebook provides an overview on data wrangling in Python using a 
 tries to achieve is to find the best performing agencies. An illustration is provided to derive the best performing agencies using EDA.
 (Future study: Although advanced data science techniques can also be used to identify best performing agencies, they have been excluded from this case study/notebook.)
 
-[View the Notebook on GitHub repository](data-wrangling-case-study.jpynb)
+[View the Notebook on GitHub repository](https://github.com/kapil-git-tech/Data_Wrangling_Py/blob/main/data-wrangling-case-study.ipynb)
 
 The notebook was originally created in Kaggle using an insurance dataset. 
 
